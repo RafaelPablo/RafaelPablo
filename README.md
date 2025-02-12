@@ -21,7 +21,7 @@
 - **Backend**: 
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-- **Other Tools**: 
+- **Others**: 
   - ![Object Pascal](https://img.shields.io/badge/-Object%20Pascal-4EAA25)
   - ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
   - ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
