@@ -20,6 +20,7 @@
 
 - **Backend**: 
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 - **Others**: 
   - ![Object Pascal](https://img.shields.io/badge/-Object%20Pascal-4EAA25)
